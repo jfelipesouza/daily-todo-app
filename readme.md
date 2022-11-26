@@ -1,1 +1,1 @@
-# Projeto Daily Todo
+# Projeto Daily Todo App
