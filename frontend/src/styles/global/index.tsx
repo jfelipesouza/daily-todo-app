@@ -9,9 +9,12 @@ export const GlobalStyle = createGlobalStyle`
 
   :root{
     font-size: 16px;
+    font-family:"Rosario";
+    font-weight: 400;
   }
 
   body{
     background-color: ${({ theme }) => theme.colors.background};
+    overflow-x: hidden;
   }
 `

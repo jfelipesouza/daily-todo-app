@@ -1,4 +1,5 @@
 import { border, margin, paddings } from './spaces'
+import { fontSize } from './font-size'
 
 export const light = {
   border,
@@ -10,5 +11,8 @@ export const light = {
     background: '#fafafa',
     text: '#222',
     gray: '#737373'
+  },
+  font: {
+    fontSize
   }
 }
